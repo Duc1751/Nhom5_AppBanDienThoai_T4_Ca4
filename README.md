@@ -2,7 +2,7 @@
 
 # Ứng Dụng Bán Điện Thoại Android
 
-![Ảnh Banner Ứng Dụng](https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/2023/10/banner/des-1920x450.png)
+![Ảnh Banner Ứng Dụng](https://cdn.tgdd.vn/2023/10/banner/PKIP15-720-220-720x220-1.png)
 
 ## Mô tả
 
