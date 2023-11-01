@@ -16,8 +16,9 @@
 
 ![Ảnh Màn Hình Sản Phẩm](images/product_screen.png)
 ## Công Nghệ Sử Dụng
-Android Studio
-Fire Base (Realtime Database, Authentication Database)
+|------------------------------------------------------|
+|Android Studio                                        |
+|Fire Base (Realtime Database, Authentication Database)|
 
 ## Tính Năng
 
