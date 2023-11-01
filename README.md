@@ -18,7 +18,7 @@
 ## Công Nghệ Sử Dụng
 |Công nghệ                                             |
 |------------------------------------------------------|
-|Android Studio                                        |
+|Java                                                  |
 |Fire Base (Realtime Database, Authentication Database)|
 
 ## Tính Năng
