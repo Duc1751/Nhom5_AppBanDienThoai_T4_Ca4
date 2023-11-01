@@ -1,10 +1,9 @@
 ## Thành Viên
 |Tên Thành Viên            |Vai trò      |Github |
 |--------------------------|-------------|-------|
-|Vang Phú Cường            |DEV          |[NhaDuX](https://github.com/NhaDuX)    |
-|Trần Đặng Hoàng Ân        |Product Owner|       |
-|Nguyễn Phạm Minh Đức      |DEV          |
-|Phan Đăng Phú             |Scrum Master |
+|Vang Phú Cường            |DEV                       |[NhaDuX](https://github.com/NhaDuX)      |
+|Trần Đặng Hoàng Ân        |Product Owner/Scrum Master|[BacXiuDa0](https://github.com/BacXiuDa0)|
+|Nguyễn Phạm Minh Đức      |DEV                       |[Duc1751](https://github.com/Duc1751)    |
 ## Ứng Dụng Bán Điện Thoại Android
 
 ![Ảnh Home](https://firebasestorage.googleapis.com/v0/b/shopdt-5c0d7.appspot.com/o/image.README%2Fhome.png?alt=media&token=c96c1ef9-daa6-469f-b8ea-65d959b6a6c7&_gl=1*1b5oobc*_ga*MTY3Mjg3NDM3OC4xNjk3MzEwMTI2*_ga_CW55HF8NVT*MTY5ODgzMTIxNy4zMS4xLjE2OTg4MzEzNzYuNjAuMC4w)
