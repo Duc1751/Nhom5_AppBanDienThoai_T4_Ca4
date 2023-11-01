@@ -1,8 +1,8 @@
 ## Thành Viên
-|Tên Thành Viên            |Vai trò      |
-|--------------------------|-------------|
-|Vang Phú Cường            |DEV          |
-|Trần Đặng Hoàng Ân        |Product Owner|
+|Tên Thành Viên            |Vai trò      |Github |
+|--------------------------|-------------|-------|
+|Vang Phú Cường            |DEV          |[NhaDuX](https://github.com/NhaDuX)    |
+|Trần Đặng Hoàng Ân        |Product Owner|       |
 |Nguyễn Phạm Minh Đức      |DEV          |
 |Phan Đăng Phú             |Scrum Master |
 ## Ứng Dụng Bán Điện Thoại Android
