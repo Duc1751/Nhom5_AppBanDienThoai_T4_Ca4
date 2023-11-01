@@ -9,11 +9,15 @@
 
 ![Ảnh Banner Ứng Dụng](https://cdn.tgdd.vn/2023/10/banner/PKIP15-720-220-720x220-1.png)
 
+
 ## Mô tả
 
 Ứng dụng Bán Điện Thoại Android là một ứng dụng di động phục vụ mua bán điện thoại di động. Ứng dụng này cho phép người dùng xem danh sách các điện thoại di động, xem chi tiết từng sản phẩm, thêm vào giỏ hàng và tiến hành thanh toán. Ngoài ra, ứng dụng cũng cung cấp tính năng đăng nhập và đăng ký người dùng.
 
 ![Ảnh Màn Hình Sản Phẩm](images/product_screen.png)
+## Công Nghệ Sử Dụng
+Android Studio
+Fire Base (Realtime Database, Authentication Database)
 
 ## Tính Năng
 
