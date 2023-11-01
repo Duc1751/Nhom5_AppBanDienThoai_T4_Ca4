@@ -2,7 +2,7 @@
 Vang Phú Cường (DEV)
 Trần Đặng Hoàng Ân (Product Owner)
 Nguyễn Phạm Minh Đức (DEV)
-Phan Đăng Phú(Scrum Master)
+Phan Đăng Phú (Scrum Master)
 ## Ứng Dụng Bán Điện Thoại Android
 
 ![Ảnh Banner Ứng Dụng](https://cdn.tgdd.vn/2023/10/banner/PKIP15-720-220-720x220-1.png)
