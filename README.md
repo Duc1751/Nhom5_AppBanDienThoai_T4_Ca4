@@ -7,7 +7,7 @@
 |Phan Đăng Phú             |Scrum Master |
 ## Ứng Dụng Bán Điện Thoại Android
 
-![Ảnh Home](gs://shopdt-5c0d7.appspot.com/image.README/home.png)
+![Ảnh Home]([gs://shopdt-5c0d7.appspot.com/image.README/home.png](https://firebasestorage.googleapis.com/v0/b/shopdt-5c0d7.appspot.com/o/image.README%2Fhome.png?alt=media&token=c96c1ef9-daa6-469f-b8ea-65d959b6a6c7&_gl=1*1b5oobc*_ga*MTY3Mjg3NDM3OC4xNjk3MzEwMTI2*_ga_CW55HF8NVT*MTY5ODgzMTIxNy4zMS4xLjE2OTg4MzEzNzYuNjAuMC4w))
 
 
 ## Mô tả
