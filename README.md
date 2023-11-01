@@ -25,7 +25,7 @@
 
 Ứng dụng Bán Điện Thoại Android là một ứng dụng di động phục vụ mua bán điện thoại di động. Ứng dụng này cho phép người dùng xem danh sách các điện thoại di động, xem chi tiết từng sản phẩm, thêm vào giỏ hàng và tiến hành thanh toán. Ngoài ra, ứng dụng cũng cung cấp tính năng đăng nhập và đăng ký người dùng.
 
-![Ảnh Màn Hình Sản Phẩm](images/product_screen.png)
+![Ảnh Màn Hình Sản Phẩm](https://firebasestorage.googleapis.com/v0/b/shopdt-5c0d7.appspot.com/o/image.README%2Fchitietsanpham.png?alt=media&token=9110493d-732c-43f8-8d63-82c5198734ff&_gl=1*1t6uz0k*_ga*MTY3Mjg3NDM3OC4xNjk3MzEwMTI2*_ga_CW55HF8NVT*MTY5ODgzMTIxNy4zMS4xLjE2OTg4MzUxNDQuNDcuMC4w)
 
 
 ## Công Nghệ Sử Dụng
@@ -66,7 +66,7 @@
 5. Để xem giỏ hàng, nhấn vào biểu tượng giỏ hàng ở góc trên cùng bên phải.
 6. Trong giỏ hàng, bạn có thể xem danh sách sản phẩm và tiến hành thanh toán.
 
-![Ảnh Màn Hình Giỏ Hàng](images/cart_screen.png)
+![Ảnh Màn Hình Giỏ Hàng]()
 
 ## Đóng Góp
 
