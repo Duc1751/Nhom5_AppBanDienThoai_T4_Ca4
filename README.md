@@ -6,9 +6,6 @@
 - [Hướng Dẫn Cài Đặt](#hướng-dẫn-cài-đặt)
 - [Hướng Dẫn Sử Dụng](#hướng-dẫn-sử-dụng)
 - [Đóng Góp](#đóng-góp)
-- [Tác Giả](#tác-giả)
-- [Giấy Phép](#giấy-phép)
-
 
 ## Thành Viên
 |Tên Thành Viên            |Vai trò      |Github |
@@ -66,17 +63,10 @@
 5. Để xem giỏ hàng, nhấn vào biểu tượng giỏ hàng ở góc trên cùng bên phải.
 6. Trong giỏ hàng, bạn có thể xem danh sách sản phẩm và tiến hành thanh toán.
 
-![Ảnh Màn Hình Giỏ Hàng]()
+![Ảnh Màn Hình Giỏ Hàng](https://firebasestorage.googleapis.com/v0/b/shopdt-5c0d7.appspot.com/o/image.README%2Fcart.png?alt=media&token=cd12782c-ecd5-4275-827b-6249322988de&_gl=1*t3mhmq*_ga*MTY3Mjg3NDM3OC4xNjk3MzEwMTI2*_ga_CW55HF8NVT*MTY5ODgzMTIxNy4zMS4xLjE2OTg4MzUyNzkuNTcuMC4w)
 
 ## Đóng Góp
 
 Nếu bạn muốn đóng góp vào dự án này, bạn có thể tạo pull request hoặc báo cáo lỗi thông qua GitHub Issues.
 
-## Tác Giả
-
-- Tên: [Vang Phú Cường]
-- Email: [phucuong1109@gmail.]
-- GitHub: [https://github.com/NhaDuX]
-
-## Giấy Phép
 ---
